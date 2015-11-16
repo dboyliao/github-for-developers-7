@@ -4,3 +4,4 @@
 - [ ] Taiwan
 - [ ] Steak
 - [ ] Coding
+- [ ] Favorite Color: Blue

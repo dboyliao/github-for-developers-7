@@ -5,3 +5,5 @@
 - [ ] Steak
 - [ ] Coding
 - [ ] Favorite Color: Blue
+- [ ] City: Taipei
+- [ ] Job: Engineer
